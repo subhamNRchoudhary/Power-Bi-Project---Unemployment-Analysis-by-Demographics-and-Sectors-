@@ -2,9 +2,11 @@
 Unemployment-Analysis-PowerBI
 
 Project Overview
+
 This project aims to analyze and visualize unemployment data by age, gender, education level, region, industry, and participation rate using Power BI. The goal is to gain insights into the unemployment trends and patterns across different demographics and sectors.
 
 Dataset
+
 The dataset includes the following columns:
 
 Age: Age group of the individuals.
@@ -12,17 +14,25 @@ Age: Age group of the individuals.
 Gender: Gender of the individuals.
 
 Period: Time period of the data.
+
 Unemployed: Number of unemployed individuals.
+
 Region: Geographical region.
+
 RegionEdu: Education level within the region.
 Industry: Industry sector.
+
+
 Participation: Participation rate in the workforce.
+
 Project Steps
 Data Import and Cleaning:
 
 Import the dataset into Power BI.
+
 Ensure data types are correct (e.g., numerical values, categorical values).
 Handle any missing values and ensure data consistency.
+
 Creating Visualizations:
 
 Bar Chart: Displays unemployment count by age group and gender.
