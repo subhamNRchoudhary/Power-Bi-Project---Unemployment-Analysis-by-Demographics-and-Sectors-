@@ -8,7 +8,9 @@ Dataset
 The dataset includes the following columns:
 
 Age: Age group of the individuals.
+
 Gender: Gender of the individuals.
+
 Period: Time period of the data.
 Unemployed: Number of unemployed individuals.
 Region: Geographical region.
