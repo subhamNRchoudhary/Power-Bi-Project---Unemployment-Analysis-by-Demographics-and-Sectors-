@@ -1,5 +1,13 @@
-# Power-Bi-Project---Unemployment-Analysis-by-Demographics-and-Sectors-
+# Power-Bi-Project---Unemployment-Analysis-by-Demographics-and-Sectors
+
 Unemployment-Analysis-PowerBI
+
+![image](https://github.com/user-attachments/assets/1025f3de-a42c-4dfd-ba1c-5842122e9ea8)
+
+![image](https://github.com/user-attachments/assets/17767776-0648-4b87-b744-8fcbb2988aeb)
+
+![image](https://github.com/user-attachments/assets/30e40466-3344-4971-94ca-d580fda67353)
+
 
 Project Overview
 
